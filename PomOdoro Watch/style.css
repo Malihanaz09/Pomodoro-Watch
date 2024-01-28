@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(./image/relogio_ia.webp);
+    background-size: cover;
+    margin-top: 200px;
+    /* background-color: rgba(210, 105, 30, 0.631); */
+    color: wheat;font-family: italic;
+    padding: 10px;
+}
+.container{
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid wheat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px wheat;
+    /* align-items: center; */
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgba(227, 141, 79, 0.67);
+    color: wheat;
+    box-shadow: 0 0 10px wheat;
+}
